@@ -1,0 +1,332 @@
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+Available Online at www.ijcsmc.com
+
+International Journal of Computer Science and Mobile Computing
+A Monthly Journal of Computer Science and Information Technology
+
+ISSN 2320–088X
+IJCSMC, Vol. 3, Issue. 3, March 2014, pg.1080 – 1087
+RESEARCH ARTICLE
+
+5G Technology-Evolution and Revolution
+Meenal G. Kachhavay[1]
+
+Ajay P.Thakare[2]
+
+1
+
+M.E. [I st year] C.S.E. Sipna College of Engineering, Amravati
+
+2
+
+Head of Department, Electronics and Telecommunication, Sipna College of Engineering, Amravati
+1
+
+meenalrajput17@ymail.com
+
+2
+
+apthakare40@rediffmail.com
+
+--------------------------------------------------------------------------------------------------------------------Abstract: In this paper, an attempt has been made to review various existing generations of
+mobile wireless technology in terms of their portals, performance, advantages and
+disadvantages. The paper throws light on the evolution and development of various
+generations of mobile wireless technology along with their significance and advantages of one
+over the other. In the past few decades, mobile wireless technologies have experience 4 or 5
+generations of technology revolution and evolution, namely from 1G to 4G.Current research
+in mobile wireless technology concentrates on advance implementation of 4G technology and
+5G technology. Currently 5G term is not officially used. In 5G research is being made on
+development of World Wide Wireless Web (WWWW), Dynamic Adhoc Wireless Networks
+(DAWN) and Real Wireless World. In this paper we propose novel network architecture for
+next generation 5G mobile networks.. In the proposed architecture the mobile terminal has the
+possibility to change the Radio Access Technology - RAT based on certain user criteria.
+KEY CONCEPT: Evolution from 1G-5G, 5G Network Architecture, Need of 5G
+© 2014, IJCSMC All Rights Reserved
+
+1080
+
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+I.
+
+INTRODUCTION
+
+Mobile wireless industry has started its technology creation, revolution and evolution since early 1970s. In the past
+few decades, mobile wireless technologies have experience 4 or 5 generations of technology revolution and
+evolution. [1] The telecommunication service in World had a great leap within last few years. 6 billion people own
+mobile phones so we are going to analyze the various generations of cellular systems as studied in the evolution of
+mobile communications from 1st generation to 5th generation. We can analyze that this could be due to increase in
+the telecom customers day by day. In the present time, there are four generations in the mobile industry. These are
+respectively 1G- the first generation, 2G- the second generation, 3G- the third generation, and then the 4G- the forth
+generation,5G-the fifth second generation.[1] Now days different wireless and mobile technologies are present such
+as third generation mobile networks (UMTS- Universal Mobile Telecommunication System, cdma2000), LTE
+(Long Term Evolution), Wi-Fi (IEEE 802.11 wireless networks), WiMAX (IEEE 802.16 wireless and mobile
+networks), as well as sensor networks, or personal area networks (e.g. Bluetooth, ZigBee). Mobile terminals include
+variety of interfaces like GSM which are based on circuit switching. All wireless and mobile networks implements
+all-IP principle, that means all data and signaling will be transferred via IP (Internet Protocol) on network layer.
+Fifth generation technology provide facilities like camera, MP3 recording, video player, large phone memory, audio
+player etc. that user never imagine and for children rocking fun with Bluetooth technology and Piconets. The fifth
+generation wireless mobile multimedia internet networks can be completely wireless communication without
+limitation, which makes perfect wireless real world – World Wide Wireless Web (WWWW). Fifth generation is
+based on 4G technologies. The 5th wireless mobile internet networks are real wireless world which shall be
+supported by LAS-CDMA (Large Area Synchronized Code-Division Multiple Access), OFDM (Orthogonal
+frequency-division multiplexing), MCCDMA (Multi-Carrier Code Division Multiple Access), UWB (Ultrawideband), Network-LMDS (Local Multipoint Distribution Service), and IPv6. Fifth generation technologies offers
+tremendous data capabilities and unrestricted call volumes and infinite data broadcast together within latest mobile
+operating system. Fifth generation should make an important difference and add more services and benefits to the
+world over 4G. Fifth generation should be more intelligent technology that interconnects the entire world without
+limits. This generation is expected to be released around 2020. The world of universal, uninterrupted access to
+information, entertainment and communication will open new dimension to our lives and change our life style
+significantly. [2]
+
+Fig 1: Wireless Communication System
+
+II.
+EVOLUTION OF MOBILE TECHNOLOGIES
+Mobile communication has become more popular in last few years due to fast revolution in mobile technology. This
+revolution is due to very high increase in telecoms customers. This revolution is from 1G- the first generation, 2Gthe second generation, 3G- the third generation, and then the 4G- the forth generation,5G-the fifth second
+generation. [2]
+© 2014, IJCSMC All Rights Reserved
+
+1081
+
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+Fig : Evolutional Changes in Mobile Technologies[7]
+A. First Generation(1G):
+1G emerged in 1980s.It contains analog system and popularly known as cell phones. It introduces mobile
+technologies such as mobile telephone system (MTS),Advanced mobile telephone system(AMTS),Improved mobile
+telephone system(IMTS)and push to talk(PTT).It uses analog radio signal which have frequency 150 MHz, Voice
+call modulation is done using a technique called frequency division multiple access(FDMA).It has low capacity ,
+unreliable handoff, poor voice links and no security at all since voice calls were played back in radio towers making
+these calls susceptible to unwanted eavesdropping by third parties[2].
+B. Second Generation (2G):
+2G emerged in late 1980s. It uses digital signals for voice transmission and has speed of 64 kbps. It provides facility
+of SMS (Short Message Service) and use the bandwidth of 30 to 200 KHz. Next to 2G, 2.5G system uses packet
+switched and circuit switched domain and provide data rate up to 144 kbps. E.g. GPRS, CDMA and EDGE [2]
+C. Third Generation (3G):
+It uses Wide Brand Wireless Network with which clarity is increased. The data are sent through the technology
+called Packet Switching. Voice calls are interpreted through Circuit Switching. Along with verbal communication it
+includes data services, access to television/video, new services like Global Roaming. It operates at a range of
+2100MHz and has a bandwidth of 15-20MHz used for High-speed internet service, video chatting.3G uses Wide
+Band Voice Channel that is by this the world has been contracted to a little village because a person can contact with
+other person located in any part of the world and can even send messages too[2].
+D. Fourth Generation (4G):
+4G offers a downloading speed of 100Mbps.4G provides same feature as 3G and additional services like MultiMedia Newspapers, to watch T.V programs with more clarity and send Data much faster than previous generations
+[3]. LTE (Long Term Evolution) is considered as 4G technology. 4G is being developed to accommodate the QoS
+and rate requirements set by forthcoming applications like wireless broadband access, Multimedia Messaging
+Service (MMS), video chat, mobile TV, HDTV content, Digital Video Broadcasting (DVB), minimal services like
+voice and data, and other services that utilize bandwidth. [2]
+E. Fifth Generation (5G):
+5G Technology stands for 5th Generation Mobile technology. 5G mobile technology has changed the means to use
+cell phones within very high bandwidth. User never experienced ever before such a high value technology.
+Nowadays mobile users have much awareness of the cell phone (mobile) technology. The 5G technologies include
+all type of advanced features which makes 5G mobile technology most powerful and in huge demand in near future.
+A user can also hook their 5G technology cell phone with their Laptop to get broadband internet access. 5G
+technology including camera, MP3 recording, video player, large phone memory, dialing speed, audio player and
+much more you never imagine. For children rocking fun Bluetooth technology and Piconets has become in market
+[1].
+
+© 2014, IJCSMC All Rights Reserved
+
+1082
+
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+Fig : 5G Mobile Phone [3]
+III.
+5G NETWORKS
+5G network is very fast and reliable. The concept of hand held devices is going to be revolutionized with the advent
+of 5G. Now all the services and applications are going to be accessed by single IP as telephony, gaming and many
+other multimedia applications. As it is not a new thing in market and there are millions of users all over the world
+who have experienced the wireless services wireless technology. It is not easy for them to shrink from using this
+new 5G network technology. There is only need to make it accessible so that a common man can easily afford the
+profitable packs offered by the companies so that 5G network could hold the authentic place. There is need to win
+the customer trust to build fair long term relation to make a reliable position in the telecommunication field. To
+complete with the preceding wireless technologies in the market 5G network has to tender something reliable
+something more pioneering. All the features like telephony, camera, mp3 player, are coming in new mobile phone
+models. 4G is providing all these utility in mobile phone. By seeing the features of 4G one can gets a rough idea
+about what 5G Networks could offer. There is messenger, photo gallery, and multimedia applications that are also
+going to be the part of 5G. There would be no difference between a PC and a mobile phone rather both would act
+vice versa [3].
+IV.
+DESIGN OF 5G MOBILE NETWORK ARCHITECTURE
+Figure 9 shows the system model that proposes design of network architecture for 5G mobile systems, which is allIP based model for wireless and mobile networks interoperability. The system consists of a user terminal (which has
+a crucial role in the new architecture) and a number of independent, autonomous radio access technologies. Within
+each of the terminals, each of the radio access technologies is seen as the IP link to the outside Internet world.
+However, there should be different radio interface for each Radio Access Technology (RAT) in the mobile terminal.
+For an example, if we want to have access to four different RATs, we need to have four different access - specific
+interfaces in the mobile terminal, and to have all of them active at the same time, with aim to have this architecture
+to be functional. [9].
+The first two OSI levels (data-link and physical levels) are defining the radio access technologies through which
+is provided access to the Internet with more or less QoS support mechanisms, which is further dependent upon the
+access technology (e.g., 3G and WiMAX have explicit QoS support, while WLAN has not) . Then, over the OSI-1
+and OSI-2 layers is the network layer, and this layer is IP (Internet Protocol) in today’s communication world, either
+IPv4 or IPv6, regardless of the radio access technology. The purpose of IP is to ensure enough control data (in IP
+header) for proper routing of IP packets belonging to a certain application connections - sessions between client
+applications and servers somewhere on the Internet. Routing of packets should be carried out in accordance with
+established policies of the user [9].
+
+© 2014, IJCSMC All Rights Reserved
+
+1083
+
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+Fig : 5G Mobile Network Architecture
+
+Fig : Protocol Layout for the Elements of the Proposed Architecture
+© 2014, IJCSMC All Rights Reserved
+
+1084
+
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+Application connections are realized between clients and servers in the Internet via sockets. Internet sockets are
+endpoints for data communication flows. Each socket of the web is a unified and unique combination of local IP
+address and appropriate local transport communications port, target IP address and target appropriate
+communication port, and type of transport protocol. Considering that, the establishment of communication from end
+to end between the client and server using the Internet protocol is necessary to raise the appropriate Internet socket
+uniquely determined by the application of the client and the server. This means that in case of interoperability
+between heterogeneous networks and for the vertical handover between the respective radio technologies, the local
+IP address and destination IP address should be fixed and unchanged. Fixing of these two parameters should ensure
+handover transparency to the Internet connection end-to-end, when there is a mobile user at least on one end of such
+connection. In order to preserve the proper layout of the packets and to reduce or prevent packets losses, routing to
+the target destination and vice versa should be uniquely and using the same path. Each radio access technology that
+is available to the user in achieving connectivity with the relevant radio access is presented with appropriate IP
+interface. Each IP interface in the terminal is characterized by its IP address and net mask and parameters associated
+with the routing of IP packets across the network. In regular inter-system handover the change of access technology
+(i.e., vertical handover) would mean changing the local IP address. Then, change of any of the parameters of the
+socket means and change of the socket, that is, closing the socket and opening a new one. This means, ending the
+connection and starting e new one. This approach is not-flexible, and it is based on today’s Internet communication.
+In order to solve this deficiency we propose a new level that will take care of the abstraction levels of network
+access technologies to higher layers of the protocol stack. This layer is crucial in the new architecture. To enable the
+functions of the applied transparency and control or direct routing of packets through the most appropriate radio
+access technology, in the proposed architecture we introduce a control system in the functional architecture of the
+networks, which works in complete coordination with the user terminal and provides a network abstraction functions
+and routing of packets based on defined policies. At the same time this control system is an essential element
+through which it can determine the quality of service for each transmission technology. He is on the Internet side of
+the proposed architecture, and as such represents an ideal system to test the qualitative characteristics of the access
+technologies, as well as to obtain a realistic picture regarding the quality that can be expected from applications of
+the user towards a given server in Internet (or peer). Protocol setup of the new levels within the existing protocol
+stack, which form the proposed architecture, is presented in Figure 2. The network abstraction level would be
+provided by creating IP tunnels over IP interfaces obtained by connection to the terminal via the access technologies
+available to the terminal (i.e., mobile user). In fact, the tunnels would be established between the user terminal and
+control system named here as Policy Router, which performs routing based on given policies. In this way the client
+side will create an appropriate number of tunnels connected to the number of radio access technologies, and the
+client will only set a local IP address which will be formed with sockets Internet communication of client
+applications with Internet servers. The way IP packets are routed through tunnels, or choosing the right tunnel,
+would be served by policies whose rules will be exchanged via the virtual network layer protocol. This way we
+achieve the required abstraction of the network to the client applications at the mobile terminal. The process of
+establishing a tunnel to the Policy Router, for routing based on the policies, are carried out immediately after the
+establishment of IP connectivity across the radio access technology, and it is initiated from the mobile terminal
+Virtual Network-level Protocol. Establishing tunnel connections as well as maintaining them represents basic
+functionality of the virtual network level (or network level of abstraction)[9].
+V.
+WHY IS 5G REQUIRED?
+The major difference, from a user point of view, between current generations and expected 5G techniques must be
+something else than increased maximum throughput; other requirements include:
+•Lower out age probability; better coverage and high data rates available at cell edge.
+•Lower battery consumption.
+•Multiple concurrent data transfer paths.
+•Around 1Gbps data rate in mobility.
+•More secure; better cognitive radio/SDR Security.
+•Higher system level spectral efficiency.
+•World Wide wireless web (WWWW).
+•More applications combined with artificial intelligent (AI) as human life will be surrounded by artificial sensors
+which could be communicating with mobile phones. Not harmful to human health.
+•Cheaper traffic fees due to low infra structure deployment costs[3].
+
+© 2014, IJCSMC All Rights Reserved
+
+1085
+
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+VI.
+CHARACTERISTICS OF 5G TECHNOLOGY
+• The technology 5G presents the high resolution for sharp, passionate cell phone every day and give consumers
+well shape and fast Internet access.
+• The 5G technology provides billing limits in advance that the more beautiful and successful of the modern era.
+• The 5G technology also allows users of mobile phones, cell phone records for printing
+operations.
+• The 5G technology for large volume data distribution in Gigabit, which also maintains close ties to almost 65,000.
+• The technology gives you 5G carrier distribution gateways to unprecedented maximum stability without delay.
+• The information from the data transfer technology 5G organize a more accurate and reliable results.
+• Using remote control technology to get the consumer can also get a 5G comfort and relax by having a better speed
+and clarity in less time alone.
+• The 5G technology also support virtual private network.
+• The uploading and downloading speed of 5G technology touching the peak.
+• The 5G technology network offering enhanced and available connectivity just about the world.
+• 5G network is very fast and reliable.
+VII.
+APPLICATIONS OF 5G TECHNOLOGY
+1) Real wireless world with no more limitation with access and zone issues.
+2) Wearable devices with AI capabilities.
+3) Internet protocol version 6(IPv6), where a visiting care-of mobile IP address is assigned according to location and
+connected network.
+4) One unified global standard.
+5) Pervasive networks providing ubiquitous computing: The user can simultaneously be connected to several
+wireless access technologies and seamlessly move between them these access technologies can be a 2.5G,3G, 4G or
+5G mobile networks, Wi-Fi, WPAN or any other future access technology. In 5G, the concept may be further
+developed into multiple concurrent data transfer paths.
+6) Cognitive radio technology, also known as smart radio: allowing different radio technologies to share the same
+spectrum efficiently by adaptively finding unused spectrum and adapting the transmission scheme to the
+requirements of the technologies currently sharing the spectrum. This dynamic radio resource management is
+achieved in a distributed fashion, and relies on software defined radio.
+7) High altitude stratospheric platform station (HAPS) Systems. The radio interface of 5G communication systems
+is suggested in a Korean research and development program to be based on beam division multiple access (BDMA)
+and group cooperative relay techniques.[8]
+VIII. FUTURE SCOPE
+Beyond 5g:
+The future enhancement of Nano-core will be incredible as it combines with artificial intelligent (AI).One can able
+to control his intelligent Robot using his mobile phone. Your Mobile can automatically type the message what your
+brain thinks. We might get a circumstance where we don’t require any spectrum for communication. The Google hot
+trends have rated the term 6G as the 17th most searched word in the search engines. The iPod 6G comes in seven
+different colors and has an aluminum body which makes the body strong to with stand constant daily usage. It has a
+clip on design like iPod shuffle and it attached to shirt firmly. 6G technology haven’t been fully revealed yet but
+search phrases like what is 6G mobile technology, 6G technology, 6G mobile, 6G network, 6G wiki, 6G technology
+ppt. are getting more familiar with new mobile technology getting evolved.
+IX.
+CONCLUSION
+In this paper, we conclude that 5G network is very fast and reliable. Fifth generation is based on 4G technologies.
+The 5th wireless mobile internet networks are real wireless world which shall be supported by LAS-CDMA (Large
+Area Synchronized Code-Division Multiple Access),OFDM (Orthogonal frequency-division multiplexing),
+MCCDMA(Multi-Carrier Code Division Multiple Access), UWB(Ultra-wideband), Network-LMDS( Local
+Multipoint Distribution Service), and IPv6. Fifth generation technologies offers tremendous data capabilities and
+unrestricted call volumes and infinite data broadcast together within latest mobile operating system. Fifth generation
+should make an important difference and add more services and benefits to the world over 4G. Fifth generation
+should be more intelligent technology that interconnects the entire world without limits. This generation is expected
+to be released around 2020. The world of universal, uninterrupted access to information, entertainment and
+communication will open new dimension to our lives and change our life style significantly.
+© 2014, IJCSMC All Rights Reserved
+
+1086
+
+Meenal G. Kachhavay et al, International Journal of Computer Science and Mobile Computing, Vol.3 Issue.3, March- 2014, pg. 1080-1087
+
+REFERENCES
+1. Aleksandar Tudzarov and Toni Janevski, “Functional Architecture for 5G Mobile Networks” International
+Journal of Advanced Science and Technology Vol. 32, July, 2011.
+2. Ms. Neha Dumbre, Ms. Monali Patwa, Ms. Kajal Patwa, “5G WIRELESS TECHNOLOGIES-Still 4G
+auction not over, but time to start talking 5G” International Journal of Science, Engineering and
+Technology Research (IJSETR) Volume 2, Issue 2, February 2013.
+3. Akhilesh Kumar Pachauri and Ompal Singh, “5G Technology – Redefining wireless Communication in
+upcoming Years” International Journal of Computer Science and Management Research Vol 1 Issue 1 Aug
+2012 ISSN 2278 – 733X.
+4. Ms. Reshma S. Sapakal, Ms. Sonali S. Kadam, “5G Mobile Technology” International Journal of
+Advanced Research in Computer Engineering & Technology (IJARCET) Volume 2, Issue 2, February
+2013.
+5. Suvarna Patil, Vipin Patil, .Pallavi Bhatt, “A Review on 5G Technology” International Journal of
+Engineering and Innovative Technology (IJEIT) Volume 1, Issue 1,January 2012.
+6. Professor T.Venkat Narayana Rao, Aasha S. A. and Sravya Tirumalaraju, “5G TECHNOLOGIES – AN
+ANECDOTE OF NETWORK SERVICE FOR THE FUTURE” Volume 2, No. 7, July 2011 Journal of
+Global Research in Computer Science.
+7. Saddam Hossain, “5G Wireless Communication Systems” American Journal of Engineering Research
+(AJER) e-ISSN: 2320-0847 p-ISSN: 2320-0936 Volume-02, Issue-10, pp-344-353 www.ajer.org.
+
+© 2014, IJCSMC All Rights Reserved
+
+1087
+
+
