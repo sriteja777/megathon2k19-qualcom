@@ -2,6 +2,12 @@
 This is for Megathon 2019 Qualcomm Problem statement
 
 ## How to Run it
+
+### Setup
 pip -r install requirements.txt
 
-python3 next.py <summaries.csv> <fulltext.csv>
+### Run 
+#### For training
+python3 src/train.py <summaries.csv> <fulltext.csv>
+#### For testing
+python3 src/test.py <summaries.csv> <fulltext.csv>
